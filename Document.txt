@@ -1,0 +1,6 @@
+console.log -> used to display output to the terminal
+
+Variables are declared with 3 keywords:
+    1. var variable_name 
+    2. let variable_name;
+    3. const variable_name;
